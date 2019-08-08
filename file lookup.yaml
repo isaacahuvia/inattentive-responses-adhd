@@ -1,0 +1,7 @@
+raw_pathways:
+  academic: 'P:\ECHO Deliverables\Raw Data\Pathways Data\W1.academic.csv'
+  child: 'P:\ECHO Deliverables\Raw Data\Pathways Data\W1.child.csv'
+  parent: 'P:\ECHO Deliverables\Raw Data\Pathways Data\W1.parent.csv'
+  PHP: 'P:\ECHO Deliverables\Clean Data\PHP.csv'
+
+analysis_ready: 'P:\ECHO Deliverables\Clean Data\Pathways ready for analysis.rda'
